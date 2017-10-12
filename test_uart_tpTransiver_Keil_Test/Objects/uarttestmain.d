@@ -5,6 +5,7 @@
 .\objects\uarttestmain.o: CPX/UART/FIFO_Modi.h
 .\objects\uarttestmain.o: CPX/UART/../../os/os.h
 .\objects\uarttestmain.o: CPX/UART/../../os/os_cfg.h
+.\objects\uarttestmain.o: SAL/UDS.h
 .\objects\uarttestmain.o: SAL/tp_transiver.h
 .\objects\uarttestmain.o: SAL/../RAL/types.h
 .\objects\uarttestmain.o: SAL/../CPX/UART/UART.h
